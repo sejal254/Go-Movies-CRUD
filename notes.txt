@@ -1,0 +1,4 @@
+steps
+1)go mod init main
+2)go get "github.com/gorilla/mux"
+3)
